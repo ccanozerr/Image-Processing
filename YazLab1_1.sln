@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yaz Lab", "YazLab1_1\Yaz Lab.csproj", "{CBAA886B-0B94-469C-92BE-DB8A3E7AC2F5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "YazLabSetup", "YazLabSetup\YazLabSetup.vdproj", "{2DAD3B09-3D3B-49E9-936E-838A65A8817F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBAA886B-0B94-469C-92BE-DB8A3E7AC2F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBAA886B-0B94-469C-92BE-DB8A3E7AC2F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBAA886B-0B94-469C-92BE-DB8A3E7AC2F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBAA886B-0B94-469C-92BE-DB8A3E7AC2F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DAD3B09-3D3B-49E9-936E-838A65A8817F}.Debug|Any CPU.ActiveCfg = Debug
+		{2DAD3B09-3D3B-49E9-936E-838A65A8817F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E3D8665-DB69-42BC-BA11-0F45B9260896}
+	EndGlobalSection
+EndGlobal
